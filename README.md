@@ -72,41 +72,41 @@ Menampilkan daftar menu CRUD yang bisa dipilih oleh user.
 
 Sampai
 
-<img width="300" height="200" alt="{DCB650DF-DAC2-4E65-9F53-73FB251B90C8}" src="https://github.com/user-attachments/assets/79a1d5af-355f-4382-a389-526dc0925021" />
+<img width="700" height="500" alt="{DCB650DF-DAC2-4E65-9F53-73FB251B90C8}" src="https://github.com/user-attachments/assets/79a1d5af-355f-4382-a389-526dc0925021" />
 
 Menjalankan aksi sesuai angka menu yang dipilih.
 
 
 ### 7. Case 1 – Tambah Game
 
-<img width="300" height="200" alt="{0687C905-8251-46E0-A147-98E2945DAAA9}" src="https://github.com/user-attachments/assets/02f92efd-9efb-42eb-99ec-6491c3d2b82f" />
+<img width="700" height="400" alt="{0687C905-8251-46E0-A147-98E2945DAAA9}" src="https://github.com/user-attachments/assets/02f92efd-9efb-42eb-99ec-6491c3d2b82f" />
 
 Menambahkan game baru ke daftar.
 
 ### 8. Case 2 - Lihat Game
 
-<img width="300" height="260" alt="{A30DCAE3-9084-4261-A2EE-A851B9F44220}" src="https://github.com/user-attachments/assets/f424bcf9-0f82-41e8-8a6e-4754bce6ad09" />
+<img width="700" height="460" alt="{A30DCAE3-9084-4261-A2EE-A851B9F44220}" src="https://github.com/user-attachments/assets/f424bcf9-0f82-41e8-8a6e-4754bce6ad09" />
 
 Menampilkan semua game yang sudah ada, atau pesan jika masih kosong.
 
 
 ### 9. Case 3 - Ubah Game
 
-<img width="300" height="296" alt="{B0143268-F5B3-44EA-84BE-2CB22733C4D5}" src="https://github.com/user-attachments/assets/c5beb6d0-f9e5-4adb-8c3e-c6db5d222e96" />
+<img width="700" height="496" alt="{B0143268-F5B3-44EA-84BE-2CB22733C4D5}" src="https://github.com/user-attachments/assets/c5beb6d0-f9e5-4adb-8c3e-c6db5d222e96" />
 
 Mengubah nama game berdasarkan nomor yang dipilih user.
 
 
 ### 10. Case 4 - Hapus Game
 
-<img width="500" height="321" alt="{E312B6FF-3FFE-4B32-B434-7E753DFF6619}" src="https://github.com/user-attachments/assets/ce0f821d-d2a5-4972-bb50-8515f8c5ced4" />
+<img width="700" height="421" alt="{E312B6FF-3FFE-4B32-B434-7E753DFF6619}" src="https://github.com/user-attachments/assets/ce0f821d-d2a5-4972-bb50-8515f8c5ced4" />
 
 Menghapus game dari daftar sesuai nomor yang dipilih user.
 
 
 ### 11. Case 5 – Keluar Program
 
-<img width="300" height="219" alt="{584580DE-C6EA-45AB-BAC0-E02ED0AB459F}" src="https://github.com/user-attachments/assets/48e4f27f-1f0c-455e-8c11-ce0ba2d8778c" />
+<img width="700" height="319" alt="{584580DE-C6EA-45AB-BAC0-E02ED0AB459F}" src="https://github.com/user-attachments/assets/48e4f27f-1f0c-455e-8c11-ce0ba2d8778c" />
 
 Mengakhiri program dan menampilkan pesan perpisahan.
 
