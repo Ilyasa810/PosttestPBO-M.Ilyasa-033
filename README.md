@@ -62,7 +62,7 @@ Perulangan do-while membuat menu terus muncul sampai user memilih keluar (opsi 5
 
 ### 5. Tampilan Menu
 
-<img width="400" height="200" alt="{D64C97C3-86F7-4732-8E0A-9AAAE79DEB03}" src="https://github.com/user-attachments/assets/eef10f44-c7bf-4010-8c0c-496a72c17664" />
+<img width="700" height="400" alt="{D64C97C3-86F7-4732-8E0A-9AAAE79DEB03}" src="https://github.com/user-attachments/assets/eef10f44-c7bf-4010-8c0c-496a72c17664" />
 
 Menampilkan daftar menu CRUD yang bisa dipilih oleh user.
 
