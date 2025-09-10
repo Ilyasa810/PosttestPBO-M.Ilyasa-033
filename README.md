@@ -111,3 +111,39 @@ Menghapus game dari daftar sesuai nomor yang dipilih user.
 Mengakhiri program dan menampilkan pesan perpisahan.
 
 ###################################################################
+
+## OUTPUT
+
+### 1. Output Menambahkan Game
+
+<img width="700" height="300" alt="{CF58E1BD-650B-43A7-9C71-8A6067E69D19}" src="https://github.com/user-attachments/assets/d9a1d7e0-5cb0-4116-98f4-406adfc379ab" />
+
+User dapat menambahkan game ke list game favorit
+
+
+### 2. Output Melihat Daftar Game
+
+<img width="700" height="399" alt="{E2DD1FAE-D797-4626-BBC8-94E2A99DED96}" src="https://github.com/user-attachments/assets/84b9d83c-9504-4b7e-8fa8-6c11f7d8ea55" />
+
+User dapat melihat atau mengecek game yang sudah dimasukkan ke list game favorit
+
+
+### 3. Output Mengubah Game di List Game Favorit
+
+<img width="700" height="399" alt="{4E644CDB-7BBB-4B45-A6F8-0D756DD40C65}" src="https://github.com/user-attachments/assets/725a3c2f-fe6f-4bb0-abb5-3ffb371f75c8" />
+
+User dapat mengubah game yang sudah ada di list game favorit ke judul game lain, jika terjadi kesalahan pengetikan.
+
+
+### 4. Output Menghapus judul game di list game favorit
+
+<img width="700" height="399" alt="{60F66D40-1D28-4DC1-87E5-325982D9C8F8}" src="https://github.com/user-attachments/assets/3a09d94c-2221-4ea7-859d-ea73c0017ede" />
+
+User dapat menghapus game yang sudah ada di list game favorit jika user merasa game tersebut sudah tidak menjadi salah satu game favorit
+
+
+### 5. Output Keluar
+
+<img width="700" height="300" alt="{5E66B568-B56D-40C6-ABB3-9C38742CEA2F}" src="https://github.com/user-attachments/assets/c6416bad-106f-4998-a556-acc67b6ba570" />
+
+User dapat langsung keluar dari program jika user merasa sudah menyelesaikan menjalankan programnya.
